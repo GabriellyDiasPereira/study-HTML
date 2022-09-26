@@ -1,15 +1,20 @@
+html {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #d3d3d3;
+}
+
 p {
-    color: red;
+    color: #000000;
     width: 500px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
   }
  
 #segundo-paragrafo {
-    color:blue;
+    color:#6A5ACD;
   }
 
 .dog-diferente {
-    color: #0ee644;
+    color: 	#BC8F8F;
 }
 
 img[src] {
@@ -17,6 +22,6 @@ img[src] {
 }
 
 h2:hover {
-    color:blueviolet;
-    font-size: 20px;
+    color:#00FF7F;
+    font-size: 30px;
 }
