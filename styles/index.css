@@ -1,0 +1,22 @@
+p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+  }
+ 
+#segundo-paragrafo {
+    color:blue;
+  }
+
+.dog-diferente {
+    color: #0ee644;
+}
+
+img[src] {
+    width: 500px;
+}
+
+h2:hover {
+    color:blueviolet;
+    font-size: 20px;
+}
